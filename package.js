@@ -1,6 +1,6 @@
 {
-  "name": "XeonBot By SABIR7718",
-  "author": "SABIR7718",
+  "name": "XeonBot By ARSLAN7152",
+  "author": "ARSLAN 7152",
   "scripts": {
     "start": "node index.js"
   },
