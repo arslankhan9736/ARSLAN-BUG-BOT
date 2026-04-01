@@ -17,8 +17,8 @@
  * YouTube   : https://youtube.com/@voidsec7718
  * Instagram : sabir._7718
  * Telegram  : https://t.me/SABIR7718
- * GitHub    : https://github.com/SABIR7718
- * WhatsApp  : +91 73650 85213
+ * GitHub    : https://github.com/arslankhan9736
+ * WhatsApp  : +923317152423
  *
  * Violations may result in DMCA takedown
  * or termination of the Telegram bot.
@@ -40,10 +40,10 @@ const {
     fetchLatestBaileysVersion
 } = require('@whiskeysockets/baileys');
 const pino = require('pino');
-let phoneNumber = "918293007159"
+let phoneNumber = "923317152423"
 const pairingCode = !!phoneNumber
 const NodeCache = require("node-cache")
-const { log } = require("@sabir7718/log")
+const { log } = require("@arslan7152/log")
 
 
 // Clear Ok SY Moyna 🥰
@@ -77,10 +77,10 @@ const SYLovesButton = {
             [{
                 text: '📢 Join Channel',
                 url: config.channel
-            }], //{ text: '👥 Join Group', url: config.group }],
+            }], //{ text: '👥 Join Group', url: https://chat.whatsapp.com/Ked6ISwuIJeHCjnsRbqtkK?mode=gi_t }],
             [{
                 text: '📱 Follow WhatsApp',
-                url: config.waChannel || 'https://whatsapp.com'
+                url: config.waChannel || 'https://whatsapp.com/channel/0029Vb7etc9Bfxo3aBvjor1O'
             }],
             /*[{ text: '🎥 Subscribe YouTube', url: config.youtube || 'https://youtube.com' }],
             [{ text: '📷 Follow Instagram', url: config.instagram || 'https://instagram.com' }],*/
@@ -233,7 +233,7 @@ const Lovesbutton = {
     reply_markup: {
         inline_keyboard: [
             [{
-                text: 'I| Bug Menu',
+                text: 'I| Arslan Bug Menu',
                 callback_data: 'bug_menu'
             }, {
                 text: 'I| Misc Menu',
